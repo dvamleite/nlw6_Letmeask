@@ -52,3 +52,5 @@ depois cria um projeto la
 depois crie um banco de dados la
 depois pegue os dados de config do projeto de la
 depois crie um arquivo na raiz do seu projeto chamado .env.local e coloque seu dados de config la pasando as variaveis de minusculo para maisculos (caixa alta ) assim evita de expor seu dados em publico
+
+https://letmeask-3d42c.web.app/
